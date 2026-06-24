@@ -1,31 +1,26 @@
 <div align="center">
 
-# 🚀 CloudForge
+# ☁️ CF
 
-### DevOps • Cloud • Automation • CI/CD
+### 🚀 Automate • Deploy • Scale
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=CloudForge&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Automation;CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+Terraform;AWS+Cloud+Solutions" />
 
 <br>
 
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,jenkins,git,github,bash,vscode" />
 
 </div>
 
 ---
 
-## ⚡ About
-
-CloudForge is a DevOps automation platform designed to streamline infrastructure provisioning, CI/CD pipelines, container orchestration, and cloud deployments.
-
----
-
-## 🏗️ Stack
+## ⚡ Stack
 
 ```text
 GitHub → Jenkins → Docker → Kubernetes → AWS
@@ -33,44 +28,31 @@ GitHub → Jenkins → Docker → Kubernetes → AWS
 
 ---
 
-## 🔥 Features
-
-✅ Infrastructure as Code
+## 🔥 Core Features
 
 ✅ CI/CD Automation
 
-✅ Docker Containerization
+✅ Infrastructure as Code
 
-✅ Kubernetes Deployment
+✅ Containerized Deployments
+
+✅ Kubernetes Orchestration
 
 ✅ Cloud Infrastructure
 
-✅ Monitoring & Logging
+✅ Monitoring & Observability
 
 ---
 
-## 📂 Structure
-
-```bash
-.
-├── terraform/
-├── kubernetes/
-├── docker/
-├── jenkins/
-├── scripts/
-└── README.md
-```
-
----
-
-## 📈 Workflow
+## 📊 Pipeline
 
 ```mermaid
 flowchart LR
-A[Code Push] --> B[CI Pipeline]
-B --> C[Docker Build]
-C --> D[Kubernetes]
-D --> E[Monitoring]
+A[Code] --> B[Build]
+B --> C[Test]
+C --> D[Docker]
+D --> E[Kubernetes]
+E --> F[Production]
 ```
 
 ---
@@ -78,43 +60,21 @@ D --> E[Monitoring]
 ## 🚀 Quick Start
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 
-cd CloudForge
+cd YOUR_REPO
 
 terraform init
 
 terraform apply
-
-kubectl apply -f kubernetes/
 ```
-
----
-
-## 📊 Project Highlights
-
-🏗️ Infrastructure as Code
-
-⚙️ Automated Deployments
-
-☁️ Cloud Native Architecture
-
-🔒 DevSecOps Ready
-
-📈 Scalable & Production Ready
-
----
-
-## 👨‍💻 Author
-
-**Muhammad Ahmad**
-
-DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
 ---
 
 <div align="center">
 
-### ⭐ Star this repository if you find it useful!
+### ⭐ Built with DevOps Excellence
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 </div>
