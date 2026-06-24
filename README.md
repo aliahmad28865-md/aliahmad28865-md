@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/clouddevops-banner.png" width="100%">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CloudDevOps&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 # ☁️ CloudDevOps
 
