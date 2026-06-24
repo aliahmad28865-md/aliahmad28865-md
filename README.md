@@ -1,13 +1,10 @@
 <div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CloudDevOps&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
 # ☁️ CloudDevOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Infrastructure;CI%2FCD+Automation;Docker+%7C+Kubernetes+%7C+Terraform;AWS+Cloud+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Infrastructure;CI%2FCD+Automation;Docker+%7C+Kubernetes+%7C+Terraform;AWS+Cloud+Solutions" />
 
+</div><div align="center">
 <br>
 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,jenkins,github,bash,prometheus,grafana" />
