@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/clouddevops-banner.png" width="100%">
+<img src="assets/clouddevops-banner.png" width="100%">
 
 # ☁️ CloudDevOps
 
